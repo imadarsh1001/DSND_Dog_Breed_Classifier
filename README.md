@@ -63,5 +63,14 @@ git clone https://github.com/imadarsh1001/DSND_Dog_Breed_Classifier.git
 9)	Using the model to make predictions from a web application using Flask. 
 10)	The user can select any image to test and the backend will make out the prediction and display the results on the next page.
 
+## Result Snapshots
 
 
+## Conclusion 
+
+Because of the transfer learning, I had the option to prepare a model with the generally small dataset, and accomplished really great accuracy. Moreover, the model was prepared inside a brief timeframe, which is very proficient. The fundamental explanation is we can reuse the loads prepared by AI specialists utilizing a great many pictures.
+There are a couple of potential enhancements for the model. To begin with, the parameters of completely associated layers, for example, the number of layers, number of hubs, dropout rates, may be changed to show signs of improvement results. Second, utilizing an alternate analyzer or assessment metric may likewise improve model execution. Third, information expansion could likewise improve the last model exactness, as it will produce all the more preparing information.
+
+## Licensing and Acknowledgements
+
+Credit to Udacity Data Science Nanodegree for the knoweldge and for the data. Feel free to use the code here as you would like following the instruction in the LICENSE.txt
