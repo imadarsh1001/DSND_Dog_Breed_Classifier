@@ -63,8 +63,15 @@ git clone https://github.com/imadarsh1001/DSND_Dog_Breed_Classifier.git
 9)	Using the model to make predictions from a web application using Flask. 
 10)	The user can select any image to test and the backend will make out the prediction and display the results on the next page.
 
-## Result Snapshots
+## Snapshots
 
+# 1 Homepage 
+![home](images/flask_app_1.JPG)
+
+# 2 Result Pages
+
+![res1](images/flask_app_2.JPG)
+![res2](images/flask_app_3.JPG)
 
 ## Conclusion 
 
